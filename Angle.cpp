@@ -42,7 +42,7 @@ void Angle::set(int t)
 
 void Angle::print(void)
 {
-	cout << "The angle is " << theta << " degrees" << endl;
+	cout << "angle: " << theta << endl;
 }
 // only change through the change(int dt) function
 
